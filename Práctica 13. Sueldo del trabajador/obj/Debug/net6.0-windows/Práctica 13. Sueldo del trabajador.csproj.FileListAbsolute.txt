@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\bin\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.exe
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\bin\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.deps.json
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\bin\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.runtimeconfig.json
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\bin\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.dll
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\bin\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.pdb
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica_13._Sueldo_del_trabajador.Form1.resources
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.csproj.GenerateResource.cache
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.AssemblyInfo.cs
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.dll
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\refint\Práctica 13. Sueldo del trabajador.dll
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.pdb
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\Práctica 13. Sueldo del trabajador.genruntimeconfig.cache
+C:\Users\Alumnos\Pictures\ticsacts\gifanimados\Práctica 13. Sueldo del trabajador\obj\Debug\net6.0-windows\ref\Práctica 13. Sueldo del trabajador.dll
