@@ -1,0 +1,16 @@
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\bin\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.exe
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\bin\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.deps.json
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\bin\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.runtimeconfig.json
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\bin\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.dll
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\bin\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.pdb
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica_17._Ordenar_números_de_mayor_a_menor.Form1.resources
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.dll
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\refint\Práctica 17. Ordenar números de mayor a menor.dll
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.pdb
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\Práctica 17. Ordenar números de mayor a menor.genruntimeconfig.cache
+C:\Users\Alumnos\source\repos\Práctica 17. Ordenar números de mayor a menor\obj\Debug\net6.0-windows\ref\Práctica 17. Ordenar números de mayor a menor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Práctica 17. Ordenar números de mayor a menor/1.0.0": {
+        "runtime": {
+          "Práctica 17. Ordenar números de mayor a menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Práctica 17. Ordenar números de mayor a menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
